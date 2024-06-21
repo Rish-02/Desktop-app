@@ -1,0 +1,17 @@
+C:\Users\rishj\source\repos\SlidelyAI2\SlidelyAI2\obj\Debug\SlidelyAI2.vbproj.AssemblyReference.cache
+C:\Users\rishj\source\repos\SlidelyAI2\SlidelyAI2\obj\Debug\SlidelyAI2.Form1.resources
+C:\Users\rishj\source\repos\SlidelyAI2\SlidelyAI2\obj\Debug\SlidelyAI2.Form2.resources
+C:\Users\rishj\source\repos\SlidelyAI2\SlidelyAI2\obj\Debug\SlidelyAI2.Form3.resources
+C:\Users\rishj\source\repos\SlidelyAI2\SlidelyAI2\obj\Debug\SlidelyAI2.Resources.resources
+C:\Users\rishj\source\repos\SlidelyAI2\SlidelyAI2\obj\Debug\SlidelyAI2.vbproj.GenerateResource.cache
+C:\Users\rishj\source\repos\SlidelyAI2\SlidelyAI2\obj\Debug\SlidelyAI2.vbproj.CoreCompileInputs.cache
+C:\Users\rishj\source\repos\SlidelyAI2\SlidelyAI2\bin\Debug\SlidelyAI2.exe.config
+C:\Users\rishj\source\repos\SlidelyAI2\SlidelyAI2\bin\Debug\SlidelyAI2.exe
+C:\Users\rishj\source\repos\SlidelyAI2\SlidelyAI2\bin\Debug\SlidelyAI2.pdb
+C:\Users\rishj\source\repos\SlidelyAI2\SlidelyAI2\bin\Debug\SlidelyAI2.xml
+C:\Users\rishj\source\repos\SlidelyAI2\SlidelyAI2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rishj\source\repos\SlidelyAI2\SlidelyAI2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rishj\source\repos\SlidelyAI2\SlidelyAI2\obj\Debug\SlidelyAI2.vbproj.Up2Date
+C:\Users\rishj\source\repos\SlidelyAI2\SlidelyAI2\obj\Debug\SlidelyAI2.exe
+C:\Users\rishj\source\repos\SlidelyAI2\SlidelyAI2\obj\Debug\SlidelyAI2.xml
+C:\Users\rishj\source\repos\SlidelyAI2\SlidelyAI2\obj\Debug\SlidelyAI2.pdb

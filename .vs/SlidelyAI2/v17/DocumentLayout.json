@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rishj\\source\\repos\\SlidelyAI2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1753D71B-30E2-41A6-B2A8-C0879209A813}|SlidelyAI2\\SlidelyAI2.vbproj|c:\\users\\rishj\\source\\repos\\slidelyai2\\slidelyai2\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1753D71B-30E2-41A6-B2A8-C0879209A813}|SlidelyAI2\\SlidelyAI2.vbproj|solutionrelative:slidelyai2\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1753D71B-30E2-41A6-B2A8-C0879209A813}|SlidelyAI2\\SlidelyAI2.vbproj|C:\\Users\\rishj\\source\\repos\\SlidelyAI2\\slidelyai2\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1753D71B-30E2-41A6-B2A8-C0879209A813}|SlidelyAI2\\SlidelyAI2.vbproj|solutionrelative:slidelyai2\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1753D71B-30E2-41A6-B2A8-C0879209A813}|SlidelyAI2\\SlidelyAI2.vbproj|C:\\Users\\rishj\\source\\repos\\SlidelyAI2\\slidelyai2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1753D71B-30E2-41A6-B2A8-C0879209A813}|SlidelyAI2\\SlidelyAI2.vbproj|solutionrelative:slidelyai2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1753D71B-30E2-41A6-B2A8-C0879209A813}|SlidelyAI2\\SlidelyAI2.vbproj|C:\\Users\\rishj\\source\\repos\\SlidelyAI2\\slidelyai2\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1753D71B-30E2-41A6-B2A8-C0879209A813}|SlidelyAI2\\SlidelyAI2.vbproj|solutionrelative:slidelyai2\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1753D71B-30E2-41A6-B2A8-C0879209A813}|SlidelyAI2\\SlidelyAI2.vbproj|C:\\Users\\rishj\\source\\repos\\SlidelyAI2\\slidelyai2\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1753D71B-30E2-41A6-B2A8-C0879209A813}|SlidelyAI2\\SlidelyAI2.vbproj|solutionrelative:slidelyai2\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1753D71B-30E2-41A6-B2A8-C0879209A813}|SlidelyAI2\\SlidelyAI2.vbproj|C:\\Users\\rishj\\source\\repos\\SlidelyAI2\\slidelyai2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1753D71B-30E2-41A6-B2A8-C0879209A813}|SlidelyAI2\\SlidelyAI2.vbproj|solutionrelative:slidelyai2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\rishj\\source\\repos\\SlidelyAI2\\SlidelyAI2\\Form1.vb",
+              "RelativeDocumentMoniker": "SlidelyAI2\\Form1.vb",
+              "ToolTip": "C:\\Users\\rishj\\source\\repos\\SlidelyAI2\\SlidelyAI2\\Form1.vb [Design]",
+              "RelativeToolTip": "SlidelyAI2\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T17:24:56.481Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\rishj\\source\\repos\\SlidelyAI2\\SlidelyAI2\\Form2.vb",
+              "RelativeDocumentMoniker": "SlidelyAI2\\Form2.vb",
+              "ToolTip": "C:\\Users\\rishj\\source\\repos\\SlidelyAI2\\SlidelyAI2\\Form2.vb [Design]",
+              "RelativeToolTip": "SlidelyAI2\\Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T18:56:38.356Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form3.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\rishj\\source\\repos\\SlidelyAI2\\SlidelyAI2\\Form3.vb",
+              "RelativeDocumentMoniker": "SlidelyAI2\\Form3.vb",
+              "ToolTip": "C:\\Users\\rishj\\source\\repos\\SlidelyAI2\\SlidelyAI2\\Form3.vb [Design]",
+              "RelativeToolTip": "SlidelyAI2\\Form3.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T18:47:08.504Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3.vb",
+              "DocumentMoniker": "C:\\Users\\rishj\\source\\repos\\SlidelyAI2\\SlidelyAI2\\Form3.vb",
+              "RelativeDocumentMoniker": "SlidelyAI2\\Form3.vb",
+              "ToolTip": "C:\\Users\\rishj\\source\\repos\\SlidelyAI2\\SlidelyAI2\\Form3.vb",
+              "RelativeToolTip": "SlidelyAI2\\Form3.vb",
+              "ViewState": "AQIAAAkAAAAEmpmZmVkhwBgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T21:53:20.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\rishj\\source\\repos\\SlidelyAI2\\SlidelyAI2\\Form1.vb",
+              "RelativeDocumentMoniker": "SlidelyAI2\\Form1.vb",
+              "ToolTip": "C:\\Users\\rishj\\source\\repos\\SlidelyAI2\\SlidelyAI2\\Form1.vb",
+              "RelativeToolTip": "SlidelyAI2\\Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T20:09:08.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "C:\\Users\\rishj\\source\\repos\\SlidelyAI2\\SlidelyAI2\\Form2.vb",
+              "RelativeDocumentMoniker": "SlidelyAI2\\Form2.vb",
+              "ToolTip": "C:\\Users\\rishj\\source\\repos\\SlidelyAI2\\SlidelyAI2\\Form2.vb",
+              "RelativeToolTip": "SlidelyAI2\\Form2.vb",
+              "ViewState": "AQIAADEAAAAAAAAAAAAnwD4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T19:14:16.547Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
